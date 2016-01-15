@@ -10,6 +10,10 @@
 !var/cache/.gitkeep
 !var/logs/.gitkeep
 
+## Directory-based project format (PHPStorm):
+.idea/
+
+
 # Parameters
 /app/config/parameters.yml
 /app/config/parameters.ini
